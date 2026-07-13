@@ -9,7 +9,7 @@ The Coffee Shop Sales Analytics Dashboard is an end-to-end Excel-based Business 
 The dashboard provides business owners with actionable insights to optimize inventory, improve staffing decisions, and identify top-performing products.
 
 📊 Dashboard Preview
-![Coffee Shop Sales Dashboard](dashboard.png)
+![Coffee Shop Sales Dashboard](Dashboard.png)
 
 🎯 Objectives
 Analyze overall sales performance.
